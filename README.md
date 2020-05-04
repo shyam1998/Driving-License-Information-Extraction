@@ -1,5 +1,5 @@
 # Cvision.ai-Internship-Assignment
-
+## email: shyam.sk1998@gmail.com ##
 <h4> Approach </h4>
 <p>
 In this project, I have used pytesseract which is a python wrapper for <a href = "https://github.com/tesseract-ocr/tesseract/">  Google’s Tesseract-OCR Engine </a> which will recognize and “read” the text embedded in images. After pre-processing the images and extracting the text, I used some pattern matching techniques to extract information such as Registration No, Chassis No, Engine No, Registration Date and MFG Date. Extracting names was a pretty challenging task, since there wasn't a pattern, so I downloaded Indian names database and matched with it instead. After getting all the information, I dumped it into a pandas dataframe and converted it to an excel sheet. 

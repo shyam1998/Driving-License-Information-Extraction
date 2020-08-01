@@ -1,4 +1,4 @@
-# Cvision.ai-Internship-Assignment
+# Driving-License-Information-Extraction
 <h5> Name: Shyam Sundar </h5>
 <h5> email: <a href = "mailto:shyam.sk1998@gmail.com"> shyam.sk1998@gmail.com </a> </h5>
 <h4> Approach </h4>
